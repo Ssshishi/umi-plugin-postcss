@@ -1,0 +1,22 @@
+{
+  "name": "umi-plugin-postcss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Ssshishi/umi-plugin-postcss.git",
+  "author": "shenshi <shenshi@shouqianba.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "postcss-loader": "^7.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4",
+    "umi": "^3.5.26"
+  },
+  "files": [
+    "dist",
+    "src"
+  ]
+}
